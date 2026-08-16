@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect width="100%" height="100%" fill="#f6f8fb"/>
+  <g transform="translate(36,36)">
+    <rect width="728" height="228" rx="10" fill="#ffffff" stroke="#e1e6ef"/>
+    <text x="24" y="44" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#1a4f8b">Finance Quiz Pack — Preview</text>
+    <text x="24" y="80" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">1. What does <tspan font-weight="700">revenue</tspan> mean in finance English?</text>
+    <text x="24" y="104" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555">Example: Revenue grew 10% in Q4.</text>
+    <text x="24" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">2. What is <tspan font-weight="700">cash flow</tspan>?</text>
+    <text x="24" y="164" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555">Example: Positive cash flow supported the acquisition.</text>
+    <text x="24" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">3. Define <tspan font-weight="700">margin</tspan>.</text>
+    <text x="24" y="224" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555">Example: Profit margin improved after cost reductions.</text>
+    <rect x="560" y="24" width="140" height="32" rx="6" fill="#1a4f8b"/>
+    <text x="628" y="46" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#fff" text-anchor="middle">Preview</text>
+  </g>
+</svg>
